@@ -1,8 +1,8 @@
 [gd_scene load_steps=16 format=3 uid="uid://n12onrqmcc4v"]
 
-[ext_resource type="Texture2D" uid="uid://hl3hm811ritg" path="res://art/27344_2_-removebg-preview.png" id="1_la1rt"]
+[ext_resource type="Texture2D" path="res://art/27344_2_-removebg-preview.png" id="1_la1rt"]
 [ext_resource type="Script" path="res://characters/kaiju.gd" id="1_qfhtl"]
-[ext_resource type="Texture2D" uid="uid://ovqxxp7i75g8" path="res://art/27344-removebg-preview.png" id="2_kdsrf"]
+[ext_resource type="Texture2D" path="res://art/27344-removebg-preview.png" id="2_kdsrf"]
 [ext_resource type="Texture2D" uid="uid://53enm33mibtw" path="res://art/27344(1).png" id="3_oxh7r"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0la06"]
